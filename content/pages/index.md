@@ -15,9 +15,9 @@ sections:
     backgroundSize: full
     title: 'WELCOME,i''m camila!'
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      As I am swinging through post-grad life in Boston, Mass, I intent for this
+      space to be for me to share some of my serious and non-serious work. Feel
+      free to send me questions, suggestions and ideas!Thank you.
     styles:
       self:
         height: auto
