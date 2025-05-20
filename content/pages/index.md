@@ -15,9 +15,14 @@ sections:
     backgroundSize: full
     title: 'WELCOME,i''m camila!'
     subtitle: >-
-      As I am swinging through post-grad life in Boston, Mass, I intent for this
-      space to be for me to share some of my serious and non-serious work. Feel
-      free to send me questions, suggestions and ideas!Thank you.
+      I graduated from Smith College in 2024 and moved onto my big-girl life in
+      Boston. I now work as an Associate Data Specialist for the LEGO group and
+      spend my free time working on my photography skills, picking up new
+      hobbies (currently kickboxing), and lastly baking some treats for friends
+      and my sweet tooth! This is a space where I intent to share both my
+      serious and not-so-serious work, a perfect mix of data, stories, and
+      images, just like my life. Thanks for stopping by, feel free to send me
+      suggestions, recs, or just say hi :)
     styles:
       self:
         height: auto
