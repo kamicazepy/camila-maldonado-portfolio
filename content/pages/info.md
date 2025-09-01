@@ -257,7 +257,7 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: FeaturedItemsSection
-    colors: colors-c
+    colors: colors-e
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
