@@ -13,13 +13,19 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
-      ## Howdy! I’m Camila Maldonado, a Paraguayan living in Boston, MA. I’ve
-      been born and raised in the world, and that’s also where I’m based. I’m
-      currently a free agent, ex-this, ex-that, ex-super big name. When I’m not
-      coding, writing or creating, I eat cereals. I have a dog, check her out
-      [@mygod](https://www.stackbit.com/).
+    text: >
+      Hi there! I'm Camila. Born and raised in Paraguay, currently living in
+      Boston MA. I went to school in Western Mass at Smith College and graduated
+      in 2024 with a degree in Statistical and Data Sciences and a minor in
+      Education. I currently work as an Associate Data Specialist for the LEGO
+      group. When I am not working, you can find me working out at my local
+      crossfit gym, checking out new cafes, and spending time with my friends or
+      trying out a new hobby. Please feel free to reach out if you would like to
+      meet up online or in person! Feel free to explore my current projects
+      and/or suggest a new one! 
 
+
+      See ya! 
     media:
       type: ImageBlock
       url: /images/IMG_0068.JPG
