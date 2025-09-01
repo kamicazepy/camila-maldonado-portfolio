@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-f
+    colors: colors-c
     backgroundSize: full
     text: >
       Hi there! I'm Camila. Born and raised in Paraguay, currently living in
