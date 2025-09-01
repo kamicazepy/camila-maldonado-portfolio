@@ -281,7 +281,7 @@ sections:
       - type: FeaturedItem
         subtitle: 'Education:'
         text: |+
-          **2020-2025**
+          **2020-2024**
 
           *   Bachelor of Arts - Smith College
 
