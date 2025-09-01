@@ -68,7 +68,7 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: 'I was part of these companies:'
+    subtitle: 'My experiences:'
     images:
       - type: ImageBlock
         url: /images/lego_logo.png
