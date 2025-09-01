@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-a
     backgroundSize: full
-    title: 'WELCOME,i''m camila!'
+    title: 'WELCOME,tHANKS FOR STOPPING BY!'
     subtitle: >-
       I graduated from Smith College in 2024 and moved onto my big-girl life in
       Boston. I now work as an Associate Data Specialist for the LEGO group and
