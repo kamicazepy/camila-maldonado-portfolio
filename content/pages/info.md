@@ -71,10 +71,6 @@ sections:
     subtitle: 'I was part of these companies:'
     images:
       - type: ImageBlock
-        url: /images/logo2.svg
-        altText: Logo two
-        caption: Logo two
-      - type: ImageBlock
         url: /images/lego_logo.png
         altText: altText of the image
         caption: Caption of the image
