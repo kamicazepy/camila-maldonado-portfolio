@@ -11,18 +11,10 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-f
+    colors: colors-a
     backgroundSize: full
-    title: 'WELCOME,i''m camila!'
-    subtitle: >-
-      I graduated from Smith College in 2024 and moved onto my big-girl life in
-      Boston. I now work as an Associate Data Specialist for the LEGO group and
-      spend my free time working on my photography skills, picking up new
-      hobbies (currently kickboxing), and lastly baking some treats for friends
-      and my sweet tooth! This is a space where I intent to share both my
-      serious and not-so-serious work, a perfect mix of data, stories, and
-      images, just like my life. Thanks for stopping by, feel free to send me
-      suggestions, recs, or just say hi :)
+    title: 'WELCOME,tHANKS FOR STOPPING BY!'
+    subtitle: Welcome to my playground.
     styles:
       self:
         height: auto
@@ -50,7 +42,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-  - colors: colors-f
+  - colors: colors-a
     type: FeaturedProjectsSection
     elementId: ''
     actions:
